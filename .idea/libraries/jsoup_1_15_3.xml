@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jsoup-1.15.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Javalib/jsoup-1.15.3.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Javalib" />
+      <root url="file://$PROJECT_DIR$/../../Javalib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../Javalib" />
+      <root url="jar://$PROJECT_DIR$/../../Javalib/jsoup-1.15.3-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../Javalib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Javalib" recursive="false" type="SOURCES" />
+  </library>
+</component>
